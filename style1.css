@@ -1,0 +1,33 @@
+.text{
+   color:whitesmoke;
+   background-color: rgba(0, 0, 0, 0.859);
+   height: 90px;
+   text-align: center;
+   padding: 0.5%;
+   font-size: 20px;
+   font-family: Georgia;
+}
+.bio{
+   float:right;
+   text-align:start;
+   align-items: center;
+   font-size: 18px;
+   font-family: 'Times New Roman';
+   font-style: italic;
+   padding: 10px;
+}
+.img{
+   position:absolute;
+   /* height: 100;
+   width: 100;
+   margin-right: auto;
+   margin-left:  auto; */
+   /* top: 20px;
+   right: 10px; */
+   bottom: 50px;
+   right: 450px;
+   left: 1000px;
+}
+img{
+   padding-top: 10px;
+}
